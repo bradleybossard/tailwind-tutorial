@@ -1,0 +1,17 @@
+{
+  "name": "tailwind-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Bradley Bossard <bradleybossard@gmail.com> (http://bradleybossard.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "autoprefixer": "10.0.2",
+    "postcss-cli": "8.3.0",
+    "tailwindcss": "2.0.1"
+  }
+}
