@@ -10,8 +10,9 @@
   "author": "Bradley Bossard <bradleybossard@gmail.com> (http://bradleybossard.com/)",
   "license": "MIT",
   "dependencies": {
-    "autoprefixer": "10.0.2",
-    "postcss-cli": "8.3.0",
-    "tailwindcss": "2.0.1"
+    "autoprefixer": "10.1.0",
+    "postcss": "8.2.2",
+    "postcss-cli": "8.3.1",
+    "tailwindcss": "2.0.2"
   }
 }
