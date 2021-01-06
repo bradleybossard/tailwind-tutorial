@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "postcss css/tailwind.css -o public/build/tailwind.css",
-    "serve": "live-server public"
+    "serve": "live-server --port=8999 public"
   },
   "keywords": [],
   "author": "Bradley Bossard <bradleybossard@gmail.com> (http://bradleybossard.com/)",
